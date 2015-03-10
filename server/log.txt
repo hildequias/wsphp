@@ -1,0 +1,1 @@
+2015-03-10 13:51:40 :: SQLSTATE[HY000] [2002] No such file or directory :: 27 :: /Applications/XAMPP/xamppfiles/htdocs/wsphp/server/DB.php 
